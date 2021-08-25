@@ -26,4 +26,4 @@ cd Scripts
 mv organize.sh ..
 cd ..
 
-echo "Congratulations! your files have been organized now"
+echo "Yaay! your files have been organized now"
